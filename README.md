@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, Ben Naime 👋</h1>
 
 <p align="center">
-     Yazılım Geliştirici
+     n/Yazılım Geliştirici
   🤖 Gömülü sistemler, otomasyon ve yapay zeka projeleriyle ilgileniyorum.<br>
   💻 Python, Arduino ve web teknolojileri üzerinde çalışıyorum.
 </p>
