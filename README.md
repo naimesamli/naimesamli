@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba, Ben 👋</h1>
-<h3 align="center">Yazılım /Geliştirici</h3>
+<h1 align="center">Merhaba, Ben Naime 👋</h1>
+<h3 align="center">Yazılım Geliştirici</h3>
 
 <p align="center">
   🤖 Gömülü sistemler, otomasyon ve yapay zeka projeleriyle ilgileniyorum.<br>
