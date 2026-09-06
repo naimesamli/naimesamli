@@ -23,10 +23,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naimesamli&show_icons=true&theme=radial" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimesamli&layout=compact&theme=radial" alt="Top Languages" />
-</div>
 
 <br>
 
